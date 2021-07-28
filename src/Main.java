@@ -5,5 +5,6 @@ public class Main {
     System.out.println("Dominik ist am coolsten");
     System.out.println("Janik ist kacke");
     System.out.println("Maik ist halt in Konstanz");
+    System.out.println("Essen");
   }
 }
