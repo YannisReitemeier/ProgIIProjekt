@@ -6,5 +6,6 @@ public class Main {
     System.out.println("Janik ist kacke");
     System.out.println("Hallo ich bin der Yves und ich bin auch dabei");
     System.out.println(12);
+    System.out.println("yay");
   }
 }
