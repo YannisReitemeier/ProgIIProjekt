@@ -1,4 +1,4 @@
-package Vehicle;
+package src.Vehicle;
 public class Maehdraescher extends Vehicle{
     
     static final int loadingArea_M = 5000;
