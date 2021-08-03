@@ -7,6 +7,9 @@
     "lib/javafx.media.jar",
     "lib/javafx.swing.jar",
     "lib/javafx.web.jar",
-    "lib/javafx-swt.jar"
-  ]
+    "lib/javafx-swt.jar",
+  ],
+  "java.project.sourcePaths": [
+    ""
+]
 }
