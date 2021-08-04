@@ -30,6 +30,11 @@ public class Maehdraescher extends Vehicle{
 
     }
 
+    public boolean ichzeigTimmwas(){
+        boolean ja = true;
+        return ja;
+    }
+
 
 
 
