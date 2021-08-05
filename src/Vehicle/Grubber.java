@@ -1,7 +1,7 @@
-package src.Vehicle;
+package vehicle;
 
 //nur mit Traktor benutzbar
 
-public class Grubber extends Vehicle{
-    
+public class Grubber extends Vehicle {
+
 }
