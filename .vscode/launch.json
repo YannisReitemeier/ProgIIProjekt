@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch GUI",
+            "request": "launch",
+            "mainClass": "src.GUI",
+            "projectName": "ProgIIProjekt_b4e726e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "src.Main",
+            "projectName": "ProgIIProjekt_b4e726e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloFX",
+            "request": "launch",
+            "mainClass": "HelloFX",
+            "projectName": "ProgIIProjekt_b4e726e3"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -14,7 +35,7 @@
             "type": "java",
             "name": "Launch HelloFX",
             "request": "launch",
-            "vmArgs":"--module-path C:\\Users\\m3g4t\\Desktop\\ProgIIProjekt\\lib --add-modules javafx.controls,javafx.fxml",
+            "vmArgs": "--module-path lib --add-modules javafx.controls,javafx.fxml",
             "mainClass": "HelloFX",
             "projectName": "ProgIIProjekt_2292b317"
         },
