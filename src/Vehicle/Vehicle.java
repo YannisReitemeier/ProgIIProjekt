@@ -1,4 +1,4 @@
-package Vehicle;
+package src.Vehicle;
 public abstract class Vehicle {
     
     static int parkingSpace;

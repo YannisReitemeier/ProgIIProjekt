@@ -1,3 +1,5 @@
+package src;
+
 import javafx.stage.Stage;
 
 public class Main {

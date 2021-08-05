@@ -1,4 +1,5 @@
-package Vehicle;
+package src.Vehicle;
+
 public class Maehdraescher extends Vehicle{
     
     static final int loadingArea_M = 5000;
@@ -13,9 +14,7 @@ public class Maehdraescher extends Vehicle{
         }
         return fill;
     }
-
-
-
+    
     public boolean getLimitationKipper(){
         Kipper kipper = new Kipper();
 
@@ -26,14 +25,10 @@ public class Maehdraescher extends Vehicle{
             //Meldung --> Kipper voll, muss davor geleert werden
         }
         return allowed;
-
-
     }
 
-
-
-
-
-
-
+    public boolean ichzeigTimmwas(){
+        boolean ja = true;
+        return ja;
+    }
 }
