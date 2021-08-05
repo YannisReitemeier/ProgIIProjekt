@@ -1,4 +1,4 @@
-package src.Vehicle;
+package vehicle;
 
 //nur mit Traktor benutzbar
 

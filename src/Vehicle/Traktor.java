@@ -1,4 +1,4 @@
-package src.Vehicle;
+package vehicle;
 
 public class Traktor extends Vehicle {
 
