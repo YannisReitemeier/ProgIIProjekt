@@ -1,4 +1,4 @@
-package Vehicle;
+package src.Vehicle;
 
 //kann nur mit einem Traktor bewegt werden --> Transport von Getreide
 
