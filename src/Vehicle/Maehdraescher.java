@@ -19,7 +19,7 @@ public class Maehdraescher extends Vehicle{
         Kipper kipper = new Kipper();
 
         boolean allowed = kipper.isFull();
-        if( allowed = true){
+        if( allowed == true){
             //Methode zum befüllen des Kippers
         }else{
             //Meldung --> Kipper voll, muss davor geleert werden
